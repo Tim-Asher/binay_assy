@@ -1,0 +1,45 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# .env file
+.env
+
+# Logs
+*.log
+
+# Test/coverage reports
+*.cover
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+.cache/
+
+# Caching
+__pycache__/
+*.py[cod]
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
