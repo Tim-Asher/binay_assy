@@ -105,9 +105,10 @@ git clone https://github.com/Tim-Asher/binat_assignment.git
 cd backend
 ```
 
-2. **Install dependencies**:
+2. **Run Venv & Install dependencies**:
 
 ```bash
+venv\Scripts\activate
 pip install
 ```
 
