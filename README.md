@@ -1,6 +1,4 @@
-To create a global README that covers both the front-end and back-end of your project, I’ve merged the key points from both README files while maintaining a clear structure. Here's the unified README:
 
----
 
 # Chat Application
 
